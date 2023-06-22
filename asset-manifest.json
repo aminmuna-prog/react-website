@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-website/static/css/main.b60fd918.css",
+    "main.js": "/react-website/static/js/main.29db6efc.js",
+    "static/js/787.cae301cb.chunk.js": "/react-website/static/js/787.cae301cb.chunk.js",
+    "static/media/laptop.jpg": "/react-website/static/media/laptop.6d9f58b690fa936d21ad.jpg",
+    "static/media/about.png": "/react-website/static/media/about.8e0ff1d833c2e6810d48.png",
+    "static/media/hero.jpg": "/react-website/static/media/hero.13c0465b57dae9e72177.jpg",
+    "static/media/diggity-marketing.jpg": "/react-website/static/media/diggity-marketing.25f7cad1c96cdd25e3ef.jpg",
+    "static/media/web-development.jpg": "/react-website/static/media/web-development.9481ba39670f076f7bbe.jpg",
+    "static/media/software.jpg": "/react-website/static/media/software.5351d9c968f0b15578fa.jpg",
+    "static/media/app-dev.jpg": "/react-website/static/media/app-dev.854df79a48da808224f8.jpg",
+    "static/media/android.jpg": "/react-website/static/media/android.238dad2d9e58fc1c8852.jpg",
+    "index.html": "/react-website/index.html",
+    "main.b60fd918.css.map": "/react-website/static/css/main.b60fd918.css.map",
+    "main.29db6efc.js.map": "/react-website/static/js/main.29db6efc.js.map",
+    "787.cae301cb.chunk.js.map": "/react-website/static/js/787.cae301cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b60fd918.css",
+    "static/js/main.29db6efc.js"
+  ]
+}
